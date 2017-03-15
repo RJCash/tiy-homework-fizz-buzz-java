@@ -6,7 +6,7 @@ public class Main {
         FizzBuzz fizzBuzz = new FizzBuzz();
 
         fizzBuzz.doIt(1, 100);
-        
+
 
     }
 
